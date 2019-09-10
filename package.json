@@ -1,6 +1,6 @@
 {
-  "name": "HEditor",
-  "title": "HEditor",
+  "name": "heditor",
+  "title": "heditor",
   "version": "3.1.2",
   "description": "HEditor - 基于wangEditor开发的 web 富文本编辑器， 轻量、简洁、易用、开源免费",
   "homepage": "http://HEditor.github.io/",
@@ -9,7 +9,7 @@
     "url": "https://github.com/Hench10"
   },
   "keywords": [
-  	"HEditor",
+  	"heditor",
     "wangEditor",
     "web 富文本编辑器"
   ],
